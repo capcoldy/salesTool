@@ -3,7 +3,8 @@
 ** Description : This is for showing the section of dealrooms in an Account Detail Page
 ** Throws : NA
 ** Calls : NA
-** Test Class : TestAccountDealRoomView_ctrl nnnhgfhg for usertestforyou dated 1/8/2017 by userfortest
+** Test Class : TestAccountDealRoomView_ctrl 
+** nnnhgfhg for usertestforyou dated 1/8/2017 by userfortest salestool
 ** Organization : Navatar Group
 ** Revision History:-
 ** Version Date(YYYY-MM-DD)       Author      Description of Action
