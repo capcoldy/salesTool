@@ -1,4 +1,4 @@
-/*********************************************************************************
+ CHE/*********************************************************************************
 ** Module Name : AccountDealRoomViewCRM ...updated data
 ** Description : This is for showing the section of dealrooms in an Account Detail Page
 ** Throws : NA
@@ -7,7 +7,7 @@
 ** Test Class : TestAccountDealRoomView_ctrl new change change data
 =======
 ** Test Class : TestAccountDealRoomView_ctrl 
-** nnnhgfhg for usertestforyou dated 1/8/2017 by userfortest salestool by 1.15pm
+** nnnhgfhg for usertestforyou dated 1/8/2017 by userfortest salestool by 1.15pm CHECK
 >>>>>>> f169ba205c6b89082d246681493a9e0011ba328d
 ** Organization : Navatar Group
 ** Revision History:-
