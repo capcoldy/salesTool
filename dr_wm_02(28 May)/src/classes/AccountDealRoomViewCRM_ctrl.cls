@@ -10,7 +10,7 @@ public with sharing class AccountDealRoomViewCRM_ctrl{
     public string accountID{get;set;}
     public string serverUrl{get;set;}
     public string namespace{get;set;}
-    public string mnaOrgId{get;set;}
+    
     
     public AccountDealRoomViewCRM_ctrl(){
         try{
