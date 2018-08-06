@@ -7,6 +7,10 @@ public with sharing class AccountDealRoomViewCRM_ctrl{
    
     public  string drAdminNewStr{get;set;}
     public  string mnaOrgId{get;set;}
+    public string accountID{get;set;}
+    public string serverUrl{get;set;}
+    public string namespace{get;set;}
+    public string mnaOrgId{get;set;}
     
     public AccountDealRoomViewCRM_ctrl(){
         try{
@@ -22,7 +26,7 @@ public with sharing class AccountDealRoomViewCRM_ctrl{
                 mnaOrgId =  stringUrlParameters[3];   
             }
             sessionID = stringUrlParameters[0];   //session id from the querystring
-            LoadGrid();
+            //LoadGrid();
         }
         catch(Exception ex){                
             apexPages.Message myMsg = new ApexPages.Message(ApexPages.Severity.ERROR,ex.getMessage()); 
