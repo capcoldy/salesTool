@@ -1,7 +1,7 @@
 /*********************************************************************************
 check dta
 *********************************************************************************/
-public with sharing class Accl{
+public with sharing class AccountDealRoomViewCRM_ctrl{
     
     public string sessionID {get;set;}    
    
