@@ -4,11 +4,11 @@
 ** Throws : NA
 ** Calls : NA
 <<<<<<< HEAD
-** Test Class : TestAccountDealRoomView_ctrl new change change data
+** Test Class : TestAccountDealRoomView_ctrl new change by 6.40
 =======
 ** Test Class : TestAccountDealRoomView_ctrl 
 ** nnnhgfhg for usertestforyou dated 1/8/2017 by userfortest salestool by 1.15pm CHECK
->>>>>>> f169ba205c6b89082d246681493a9e0011ba328d
+>>>>>>> f169ba205c6b89082d246681493a9e0011ba328d 
 ** Organization : Navatar Group
 ** Revision History:-
 ** Version Date(YYYY-MM-DD)       Author      Description of Action
